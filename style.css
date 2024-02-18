@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 100px;
+    background-color: #490404;
+}
+.left-img{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 30px;
+}
+.icon{
+    display: flex;
+    gap: 10px;
+}
+.icon2{
+    display: flex;
+    gap: 10px;
+}
+.icon3{
+    display: flex;
+    gap: 10px;
+}
+.icon4{
+    display: flex;
+    gap: 10px;
+}
+.center{
+    display: flex;
+    gap: 40px;
+
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+}
+ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    align-items: center;
+}
+
+
+.text h1{
+    font-size: 51px;
+    color: white;
+}
+.text p{
+    font-size: 16px;
+    color: white;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+.btn button{
+width: 200px;
+height: 60px;
+background: #8DFD1B;
+border: none;
+
+}
+.text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+
+}
+
+.container h2{
+    color: white;
+    font-size: 38px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.block{
+    width: 540px;
+    height: 70px;
+    border: 2px solid green;
+}
+.block h3{
+    color: white;
+}
+.number{
+    width: 45px;
+    height: 45px;
+    background: green;
+}
+.number p{
+    font-size: 28px;
+    text-align: center;
+    color: white;
+}
+.content3{
+    padding-top: 400px;
+}
+.content4{
+    padding-top: 400px;
+}
+.text10 p{
+color: white;
+}
+
+.box{
+    width: 540px;
+    height: 260px;
+    border: 2px solid green;
+    display: flex;
+    align-items: center;
+}
+.content2{
+    text-align: center;
+}
+.position img{
+    position: absolute;
+}
+a:hower{
+    background: yellow;
+}
+
+.content2{
+    padding-left: 500px;
+}
+.content3{
+    padding-left: 500px;
+}
+.content4{
+    padding-left: 500px;
+}
+.img-3{
+    position: absolute;
+    right: 500px;
+}
+
+.container-3{
+    padding-top: 100px;
+}
+section{
+    background: black;
+    height: 100%;
+}
+}
